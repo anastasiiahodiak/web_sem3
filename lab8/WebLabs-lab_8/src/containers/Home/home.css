@@ -1,0 +1,17 @@
+.add_content{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.add_content_info>h1{
+    color: #1E4238;
+    text-align: center;
+}
+
+.add_content_info>p{
+    color: #1E4238;
+    text-align: center;
+    width: 500px;
+}
