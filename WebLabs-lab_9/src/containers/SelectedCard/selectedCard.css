@@ -1,0 +1,18 @@
+.sel_item_description{
+    width: 700px;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.sel_item_price{
+    margin-top: 70px;
+    margin-left: 100px;
+    display: flex;
+}
+.sel_item_price > h2{
+   margin: 0;
+}
+.buy{
+    margin-left: 100px;
+    width: 150px;
+ 
+}
